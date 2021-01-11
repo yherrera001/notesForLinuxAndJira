@@ -1,0 +1,29 @@
+What is JIRA?
+	- This software is used for bug tracking, issue tracking, and project management
+	- Track issue and bugs related to your software and Mobile apps
+	- Analyzing data and storing
+	- Started in 2002 by Atlassian
+	- Originally started as an issue ticketing system -- a bug tracking software
+	- The types of packages include -- JIRA Core, JIRA Software, JIRA Service Desk
+	- Projects keep your work organized
+
+
+	**Optional** Confluence is where you could do the breakdown of jira, it works hand and hand
+
+
+Features:
+	- You can view the status of a workflow through a diagram or text view
+	- Permissions could be assigned to different perspectives/roles
+	- Notifications from watchers, reporters and current assignee
+	- Watchers icon where you can
+
+
+Epic, Stories, Bugs, and Tasks:
+	• Epic are large stories with a distinct start and end, span multiple sprints.
+	• Epics are not groupings of work items
+	• Epics may contain stories, bugs, and tasks within them
+	• Stories, bugs and tasks are all at the same level hierarchically in JIRA
+	• Stories are called user stories to ensure focus on users
+	• Bugs are a defect or a problem that should be prioritized against new items
+	• Sub-tasks are work within a story or bug
+
